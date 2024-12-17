@@ -34,7 +34,7 @@ npm install
 Proje kök dizininde `.env` dosyası oluşturup aşağıdaki ayarları ekleyin:
 
 ```env
-MONGO_URI="mongodb+srv://username:password@cluster0.mongodb.net/"
+MONGO_URI="yourmongodburl"
 PORT=5000
 JWT_SECRET="yoursecretkey"
 ```
