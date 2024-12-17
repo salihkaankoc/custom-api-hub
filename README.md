@@ -19,7 +19,7 @@
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adiniz/custom-api-hub.git
+git clone https://github.com/salihkaankoc/custom-api-hub.git
 cd custom-api-hub
 ```
 
